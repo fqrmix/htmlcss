@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3e5c4ccf-8f09-42ee-8974-b121e6278d1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main-Site/img/AVE.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/AVE.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main-Site/img/border.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/border.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main-Site/img/items/1-sm.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/items/1-sm.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main-Site/img/items/2-sm.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/items/2-sm.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main-Site/img/items/3-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/items/3-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main-Site/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main-Site/img/photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/photo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main-Site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main-Site/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +61,23 @@
       <option name="presentableId" value="Default" />
       <updated>1633506683445</updated>
       <workItem from="1633506684515" duration="15053000" />
-      <workItem from="1633589628256" duration="643000" />
+      <workItem from="1633589628256" duration="1459000" />
     </task>
+    <task id="LOCAL-00001" summary="changed name of folder">
+      <created>1633590388710</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633590388710</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed name of folder">
+      <created>1633590425949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633590425949</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +94,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed name of folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed name of folder" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="838" y="417" width="654" height="205" key="Github.ShareDialog" timestamp="1633589669353">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -80,9 +107,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="810" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1633589693429" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1633590007111">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1633590429714">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1633590007111" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1633590429714" />
   </component>
 </project>
