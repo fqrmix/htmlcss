@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e5c4ccf-8f09-42ee-8974-b121e6278d1f" name="Default Changelist" comment="" />
+    <list default="true" id="3e5c4ccf-8f09-42ee-8974-b121e6278d1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-Site/img/AVE.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/AVE.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-Site/img/border.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/border.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-Site/img/items/1-sm.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/items/1-sm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-Site/img/items/2-sm.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/items/2-sm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-Site/img/items/3-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/items/3-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-Site/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-Site/img/photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/img/photo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-Site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-Site/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1z7kns5WfjFsokEJXtJ6Y09v3GU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,6 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,11 +53,36 @@
       <option name="presentableId" value="Default" />
       <updated>1633506683445</updated>
       <workItem from="1633506684515" duration="15053000" />
-      <workItem from="1633589628256" duration="9000" />
+      <workItem from="1633589628256" duration="643000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="838" y="417" width="654" height="205" key="Github.ShareDialog" timestamp="1633589669353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="417" width="654" height="205" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1633589669353" />
+    <state x="810" y="224" key="Github.UntrackedFilesDialog" timestamp="1633589693429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1633589693429" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1633590007111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1633590007111" />
   </component>
 </project>
