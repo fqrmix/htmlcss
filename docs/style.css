@@ -165,5 +165,35 @@ img {
 }
 
 .lookbook {
+    margin-top: 20px;
     width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lookbook-card {
+    max-width: 32%;
+    position: relative;
+}
+
+.lookbook-card-text {
+    position: absolute;
+    top: 100px;
+    max-width: 50%;
+    text-align: right;
+    left: 50%;
+    margin-right: 50px;
+}
+
+.lookbook-view-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 20%;
+    right: 0;
+    margin-right: 50px;
+    height: 60px;
+    width: 180px;
+    border: 0.2rem inset black;
 }
