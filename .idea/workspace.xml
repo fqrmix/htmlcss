@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3e5c4ccf-8f09-42ee-8974-b121e6278d1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -62,6 +65,10 @@
       <updated>1633506683445</updated>
       <workItem from="1633506684515" duration="15053000" />
       <workItem from="1633589628256" duration="1459000" />
+      <workItem from="1634028742494" duration="139000" />
+      <workItem from="1634145767196" duration="1108000" />
+      <workItem from="1635957416909" duration="1168000" />
+      <workItem from="1636642304981" duration="625000" />
     </task>
     <task id="LOCAL-00001" summary="changed name of folder">
       <created>1633590388710</created>
@@ -93,6 +100,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changed name of folder" />
