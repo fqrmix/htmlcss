@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3e5c4ccf-8f09-42ee-8974-b121e6278d1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
       <workItem from="1634028742494" duration="139000" />
       <workItem from="1634145767196" duration="1108000" />
       <workItem from="1635957416909" duration="1168000" />
-      <workItem from="1636642304981" duration="3984000" />
+      <workItem from="1636642304981" duration="4638000" />
     </task>
     <task id="LOCAL-00001" summary="changed name of folder">
       <created>1633590388710</created>
@@ -91,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636643086461</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lookbook editing">
+      <created>1636646868818</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636646868818</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changed name of folder" />
     <MESSAGE value="add lookbook images and minor issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lookbook images and minor issues" />
+    <MESSAGE value="lookbook editing" />
+    <option name="LAST_COMMIT_MESSAGE" value="lookbook editing" />
   </component>
 </project>
