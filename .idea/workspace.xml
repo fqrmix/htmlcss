@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3e5c4ccf-8f09-42ee-8974-b121e6278d1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +76,9 @@
       <workItem from="1634028742494" duration="139000" />
       <workItem from="1634145767196" duration="1108000" />
       <workItem from="1635957416909" duration="1168000" />
-      <workItem from="1636642304981" duration="5143000" />
+      <workItem from="1636642304981" duration="5797000" />
+      <workItem from="1636734195347" duration="4307000" />
+      <workItem from="1636802491957" duration="1642000" />
     </task>
     <task id="LOCAL-00001" summary="changed name of folder">
       <created>1633590388710</created>
@@ -112,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636647395718</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="wrapper fixed">
+      <created>1636647825170</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636647825170</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +144,7 @@
     <MESSAGE value="changed name of folder" />
     <MESSAGE value="add lookbook images and minor issues" />
     <MESSAGE value="lookbook editing" />
-    <option name="LAST_COMMIT_MESSAGE" value="lookbook editing" />
+    <MESSAGE value="wrapper fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="wrapper fixed" />
   </component>
 </project>

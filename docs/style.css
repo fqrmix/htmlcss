@@ -174,28 +174,46 @@ img {
 }
 
 .lookbook-card {
-    max-width: 32%;
-    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-end;
+    height: 370px;
+    width: auto;
+}
+
+#man {
+    background: url("img/man-lookbook.png") no-repeat;
+    background-size: cover;
+}
+
+#woman {
+    background: url("img/woman-lookbook.png") no-repeat;
+    background-size: cover;
+}
+
+#unknown {
+    background: url("img/unknown-lookbook.png") no-repeat;
+    background-size: cover;
 }
 
 .lookbook-card-text {
-    position: absolute;
-    top: 100px;
-    max-width: 50%;
-    text-align: right;
-    left: 50%;
     margin-right: 50px;
+    text-align: right;
+    max-width: 50%;
 }
 
 .lookbook-view-button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: absolute;
-    bottom: 20%;
-    right: 0;
     margin-right: 50px;
-    height: 60px;
-    width: 180px;
-    border: 0.2rem inset black;
+    margin-top: 50px;
+    height: 50px;
+    width: 130px;
+    background: white;
+    transition: 0.2s linear;
+    text-align: center;
+}
+
+.lookbook-view-button:hover {
+    background: #00c8c8;
+
 }
