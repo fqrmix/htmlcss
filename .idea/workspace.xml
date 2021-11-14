@@ -78,7 +78,8 @@
       <workItem from="1635957416909" duration="1168000" />
       <workItem from="1636642304981" duration="5797000" />
       <workItem from="1636734195347" duration="4307000" />
-      <workItem from="1636802491957" duration="1642000" />
+      <workItem from="1636802491957" duration="2121000" />
+      <workItem from="1636879365086" duration="2076000" />
     </task>
     <task id="LOCAL-00001" summary="changed name of folder">
       <created>1633590388710</created>
@@ -122,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636647825170</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Lookbook CSS and HTML fix">
+      <created>1636804704874</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636804704874</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +153,7 @@
     <MESSAGE value="add lookbook images and minor issues" />
     <MESSAGE value="lookbook editing" />
     <MESSAGE value="wrapper fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="wrapper fixed" />
+    <MESSAGE value="Lookbook CSS and HTML fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lookbook CSS and HTML fix" />
   </component>
 </project>

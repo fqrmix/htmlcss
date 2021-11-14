@@ -204,16 +204,59 @@ img {
 }
 
 .lookbook-view-button {
+    text-decoration: none;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-right: 50px;
     margin-top: 50px;
     height: 50px;
     width: 130px;
     background: white;
     transition: 0.2s linear;
-    text-align: center;
 }
 
 .lookbook-view-button:hover {
     background: #00c8c8;
+    color: whitesmoke;
+}
 
+.prefooter {
+    margin-top: 50px;
+    background: #f8f8f8;
+    max-width: 100%;
+}
+
+.prefooter-wrapper {
+
+    display: flex;
+    justify-content: space-between;
+    max-width: 960px;
+    margin: 0 auto;
+
+}
+
+.prefooter-wrapper-list {
+    list-style: none;
+    max-width: 220px;
+    padding-inline-start: 0;
+}
+
+.prefooter-wrapper-list-item {
+    margin: 15px 0;
+}
+
+.prefooter-adv {
+    display: flex;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.adv {
+    display: flex;
+    flex-direction: column;
+    flex: 6;
+    align-items: center;
+    padding: 50px 0;
 }
